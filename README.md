@@ -2,9 +2,7 @@
 # CloudScope Inventory
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/1e293b/ffffff?text=CloudScope+Inventory+Dashboard" alt="CloudScope Demo" width="100%">
-  <br>
-  <em><a href="./grok-video-a0315e53-8822-4aa2-8b8d-9bd5259dbaf2.mp4">📹 Watch Demo Video</a></em>
+  <img src="demo.png" alt="CloudScope Dashboard" width="100%">
 </div>
 
 A multi-cloud inventory management dashboard for DevOps and FinOps teams. Track resources, costs, and security compliance across AWS, Azure, and GCP from a single interface.
