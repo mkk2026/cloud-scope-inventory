@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Scope Inventory",
+  "description": "A multi-cloud inventory management tool that discovers resources, tracks costs, analyzes tagging compliance, and provides AI-driven infrastructure insights.",
+  "requestFramePermissions": []
+}
